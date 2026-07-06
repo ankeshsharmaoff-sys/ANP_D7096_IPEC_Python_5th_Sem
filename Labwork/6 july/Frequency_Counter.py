@@ -39,7 +39,7 @@ for word in sorted_words:
 
 
 
-# output
+# Output
 
 """"""Enter a sentence: all is well
 

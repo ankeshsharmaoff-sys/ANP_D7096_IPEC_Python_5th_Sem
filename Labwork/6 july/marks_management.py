@@ -47,7 +47,7 @@ print(student_marks)
 highest_student = max(student_marks, key=student_marks.get)
 
 
-# output
+# Output
 """All Students and Marks:
 Alice: 85
 Bob: 92
